@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:id="@+id/nav_searchEmployee"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:iconTint="#FFFFFF"
+        android:title="@string/search" />
+
+    <item
+        android:id="@+id/nav_addEmployee"
+        android:icon="@drawable/ic_baseline_add_circle_24"
+        android:iconTint="#FFFFFF"
+        android:title="@string/add_employee" />
+
+    <item
+        android:id="@+id/nav_editEmployee"
+        android:icon="@drawable/ic_baseline_edit_24"
+        android:iconTint="#FFFFFF"
+        android:title="@string/edit_employee" />
+
+    <item
+        android:id="@+id/nav_removeEmployee"
+        android:icon="@drawable/ic_baseline_remove_circle_24"
+        android:iconTint="#FFFFFF"
+        android:title="@string/remove_employee" />
+</menu>
